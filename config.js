@@ -5,7 +5,7 @@ const CONFIG = {
     Bởi vì anh mới nhìn thấy em ở đây và trong nháy mắt là em đã đánh cắp trái tim của anh rồi`,
     btnIntro: '^^HiHi^^',
     title: 'Phải chăng Bé đã yêu ngay từ cái nhìn đầu tiên 🥰',
-    desc: 'Phải chăng Bé đã say ngay từ lúc thấy nụ cười ấy ',
+    desc: 'Phải chăng Bé đã say ngay từ lúc thấy nụ cười ấy <3 ',
     btnYes: 'Yêu nhắm <33',
     btnNo: 'Không nha :3',
     question: 'Trên thế giới hơn 7 tỉ người mà sao Bé lại yêu ah <3',
