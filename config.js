@@ -2,7 +2,7 @@ const CONFIG = {
     titleWeb: "nói nghe nè",
     introTitle: 'Đố vui',
     introDesc: `trâm cute hột me xí nguội :>`,
-    btnIntro: '^^HiHi^^',
+    btnIntro: '^^HEHE^^',
     title: 'đố m  t đng nghĩ m mập hay gầy',
     desc: 'mời trả lời :33 ',
     btnYes: 'gầy đó :33',
